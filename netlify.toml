@@ -1,0 +1,7 @@
+[build]
+	publish = "public"
+	command = "npm run build"
+
+[dev]
+	publish = "public"
+	command = "npm run dev:clean"
